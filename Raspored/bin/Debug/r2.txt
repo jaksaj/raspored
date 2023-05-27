@@ -1,0 +1,18 @@
+5
+B2-74 2 20
+B2-75 2 24
+A0-1 1 80
+A0-2 1 80
+B3-71 3 16
+MAT1 9 13 ništa 75
+P1 8 10 računala 22
+ALG 11 13 brza_računala 15
+P2 13 17 računala 14
+MAT2 10 12 ništa 70
+PIU 9 12 računala 24
+OOP 15 17 računala 18
+AR 14 16 ništa 55
+PAR 18 20 računala 11
+MAT3 17 20 ništa 120
+EL 15 18 ništa 77
+PE 12 14 ništa 15

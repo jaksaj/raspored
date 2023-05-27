@@ -1,0 +1,11 @@
+C:\Users\JJ\Desktop\Raspored\Raspored\bin\Debug\Raspored.exe.config
+C:\Users\JJ\Desktop\Raspored\Raspored\bin\Debug\Raspored.exe
+C:\Users\JJ\Desktop\Raspored\Raspored\bin\Debug\Raspored.pdb
+C:\Users\JJ\Desktop\Raspored\Raspored\obj\Debug\Raspored.csproj.AssemblyReference.cache
+C:\Users\JJ\Desktop\Raspored\Raspored\obj\Debug\Raspored.csproj.SuggestedBindingRedirects.cache
+C:\Users\JJ\Desktop\Raspored\Raspored\obj\Debug\Raspored.Form1.resources
+C:\Users\JJ\Desktop\Raspored\Raspored\obj\Debug\Raspored.Properties.Resources.resources
+C:\Users\JJ\Desktop\Raspored\Raspored\obj\Debug\Raspored.csproj.GenerateResource.cache
+C:\Users\JJ\Desktop\Raspored\Raspored\obj\Debug\Raspored.csproj.CoreCompileInputs.cache
+C:\Users\JJ\Desktop\Raspored\Raspored\obj\Debug\Raspored.exe
+C:\Users\JJ\Desktop\Raspored\Raspored\obj\Debug\Raspored.pdb
